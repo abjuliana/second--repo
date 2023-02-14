@@ -1,4 +1,10 @@
 Boa noite - criado via interface do github
 
 
+<<<<<<< HEAD
 edição do arquivo via vscode ---
+=======
+Edição do arquivo via GITHUB dps de ter sidp alterado por vscode 
+>>>>>>> 4616d258f4fe3f7d7bea34a5f6702ecadf95c4aa
+
+Resolução do conflito 
